@@ -3,6 +3,9 @@ title: Vitaliy Krasnoperov - Backend developer
 tag_text: VKrasnoperov.me
 description: I am backend developer in Kaliningrad, Russia
 
+url: https://vkrasnoperov.me
+enforce_ssl: vkrasnoperov.me
+
 # Build settings
 markdown: kramdown
 exclude: ["README.md"]

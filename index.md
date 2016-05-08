@@ -20,7 +20,7 @@ layout: default
 
 Могу в GIT, Laravel, Codeception, AWS, Sphinx, Vagrant
 
-Практикую TDD, BDD, B<sup>**\***</sup><sup>**\***</sup>DD
+Практикую TDD, BDD, B<sup>**\***</sup><sup>**\***</sup>DD, Agile
 
 Имел дело с RabbitMQ, GOlang, Ruby/Rails, Flask
 

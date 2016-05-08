@@ -20,6 +20,8 @@ layout: default
 
 Могу в GIT, Laravel, Codeception, AWS, Sphinx, Vagrant
 
+Практикую TDD, BDD, B<sup>**\***</sup><sup>**\***</sup>DD
+
 Имел дело с RabbitMQ, GOlang, Ruby/Rails, Flask
 
 Работал над highload
@@ -29,3 +31,5 @@ layout: default
 ------
 
 <sup>**\***</sup> - (╯°□°)╯︵ ┻━┻
+
+<sup>**\***</sup><sup>**\***</sup> - Beer

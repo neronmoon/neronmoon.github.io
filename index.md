@@ -22,7 +22,7 @@ layout: default
 
 Практикую TDD, BDD, B<sup>**\***</sup><sup>**\***</sup>DD, Agile
 
-Имел дело с RabbitMQ, GOlang, Ruby/Rails, Flask
+Имел дело с RabbitMQ, Docker, GOlang, Ruby/Rails, Flask
 
 Работал над highload
 

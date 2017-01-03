@@ -1,10 +1,10 @@
 # Site settings
 title: Vitaliy Krasnoperov - Backend developer
-tag_text: VKrasnoperov.me
+tag_text: Vitaliy Krasnoperov
 description: I am backend developer in Kaliningrad, Russia
 
-url: https://vkrasnoperov.me
-enforce_ssl: vkrasnoperov.me
+url: https://krasnoperov.tk
+enforce_ssl: krasnoperov.tk
 
 # Build settings
 markdown: kramdown

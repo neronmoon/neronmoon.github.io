@@ -10,7 +10,7 @@ layout: default
 
 Born April 5, 1993 in Siberia, in 2014 moved to Kaliningrad. I write in PHP and Python. I love the backend, not like frontend. Use intellij idea, console and OSX.
 
-## Work experience
+## Work experience 
 
 - [DealerSocket](http://dealersocket.com/) ( 2014 - ... ) PHP/Symfony/Samopis Python Sphinx MySQL
 - [KDMarket](http://kdmarket.ru/) ( 2013 - 2014 ) PHP/1C-Birtix MySQL JS CSS<sup>**\***</sup>

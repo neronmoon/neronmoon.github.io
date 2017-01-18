@@ -8,7 +8,7 @@ layout: default
 
 **Krasnoperov Vitaliy**
 
-Родился 5 апреля 1993 года в Сибири, в 2014 году переехал в Калининград. Пишу на PHP и Python. Люблю бекенд, не люблю фронтенд. Использую intellij idea, консоль и OSX.
+Born April 5, 1993 in Siberia, in 2014 moved to Kaliningrad. I write in PHP and Python. I love the backend, not like frontend. Use intellij idea, console and OSX.
 
 ## Опыт работы
 
@@ -18,15 +18,15 @@ layout: default
 
 ## Другое
 
-Могу в GIT, Laravel, Codeception, AWS, Sphinx, Vagrant
+Can into GIT, Laravel, Codeception, AWS, Sphinx, Vagrant
 
-Практикую TDD, BDD, B<sup>**\***</sup><sup>**\***</sup>DD, Agile
+Practice TDD, BDD, B<sup>**\***</sup><sup>**\***</sup>DD, Agile
 
-Имел дело с RabbitMQ, Docker, GOlang, Ruby/Rails, Flask
+Had to deal with  RabbitMQ, Docker, GOlang, Ruby/Rails, Flask
 
-Работал над highload
+Worked with highload
 
-Люблю чистый код и кофе
+Love clean code and coffee
 
 ------
 

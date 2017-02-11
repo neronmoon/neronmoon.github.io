@@ -6,7 +6,7 @@ layout: default
 
 ## About me
 
-Born April 5, 1993 in Siberia, in 2014 moved to Kaliningrad. Write in PHP and Python. Love the backend, dislike frontend. Use intellij idea, shell and OSX.
+Born April 5, 1993 in Siberia, in 2014 moved to Kaliningrad. Write in PHP and Python. Love backend, dislike frontend. Use intellij idea, console and OSX.
 
 ## Experience
 

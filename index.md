@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[GitHub](https://github.com/neronmoon) / [Email](mailto:alistar.neron@gmail.com) / [VK](https://vk.com/neronmoon)
+[GitHub](https://github.com/neronmoon) / [Email](mailto:alistar.neron@gmail.com)
 
 ## About me
 

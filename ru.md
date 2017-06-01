@@ -10,9 +10,9 @@ layout: default
 
 ## Опыт работы
 
-- [DealerSocket](http://dealersocket.com/) ( 2014 - ... ) PHP/Symfony/Samopis Python Sphinx MySQL
-- [KDMarket](http://kdmarket.ru/) ( 2013 - 2014 ) PHP/1C-Birtix MySQL JS CSS<sup>**\***</sup>
-- [Likee](https://likee.ru/) ( 2012 - 2013 ) PHP/1C-Birtix MySQL Python
+- [DealerSocket](http://dealersocket.com/) ( 2014 - ... ) PHP/Symfony/Samopis, Python, Sphinx, MySQL
+- [KDMarket](http://kdmarket.ru/) ( 2013 - 2014 ) PHP/1C-Birtix, MySQL, JS, CSS<sup>**\***</sup>
+- [Likee](https://likee.ru/) ( 2012 - 2013 ) PHP/1C-Birtix, MySQL, Python
 
 ## Другое
 

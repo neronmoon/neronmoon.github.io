@@ -10,9 +10,9 @@ Born April 5, 1993 in Siberia, in 2014 moved to Kaliningrad. Write in PHP and Py
 
 ## Experience
 
-- [DealerSocket](http://dealersocket.com/) ( 2014 - ... ) PHP/Symfony/Custom Python Sphinx MySQL
-- [KDMarket](http://kdmarket.ru/) ( 2013 - 2014 ) PHP/1C-Birtix MySQL JS CSS<sup>**\***</sup>
-- [Likee](https://likee.ru/) ( 2012 - 2013 ) PHP/1C-Birtix MySQL Python
+- [DealerSocket](http://dealersocket.com/) ( 2014 - ... ) PHP/Symfony/Custom, Python, Sphinx, MySQL
+- [KDMarket](http://kdmarket.ru/) ( 2013 - 2014 ) PHP/1C-Birtix, MySQL, JS, CSS<sup>**\***</sup>
+- [Likee](https://likee.ru/) ( 2012 - 2013 ) PHP/1C-Birtix, MySQL, Python
 
 ## Extra
 

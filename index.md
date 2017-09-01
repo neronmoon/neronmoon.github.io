@@ -33,7 +33,6 @@ Program for holding auctions to raise prices in accordance with the requirements
 Scripts-dev directive for composer <br> <br>
 - [TeamcityCodeception](https://github.com/neronmoon/TeamcityCodeception) **Pet** *PHP* <br>
 Teamcity CI server + Codeception better integration package <br> <br>
-
 - [Laravel-GraphQL](https://github.com/Folkloreatelier/laravel-graphql/pull/96) **Contribution** *PHP*
 - [Will](https://github.com/skoczen/will/pull/76) **Contribution**  *Python*
 

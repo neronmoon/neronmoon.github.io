@@ -33,7 +33,6 @@ layout: default
 Scripts-dev директива для Composer <br><br>
 - [TeamcityCodeception](https://github.com/neronmoon/TeamcityCodeception) **Проект** *PHP* <br>
 Пакет для более плотной интеграции Teamcity и Codeception<br><br>
-
 - [Laravel-GraphQL](https://github.com/Folkloreatelier/laravel-graphql/pull/96) **Contribution** *PHP*
 - [Will](https://github.com/skoczen/will/pull/76) **Contribution**  *Python*
 

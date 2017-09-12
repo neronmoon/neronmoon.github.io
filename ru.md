@@ -36,7 +36,7 @@ Scripts-dev директива для Composer <br><br>
 - [Laravel-GraphQL](https://github.com/Folkloreatelier/laravel-graphql/pull/96) **Contribution** *PHP*
 - [Will](https://github.com/skoczen/will/pull/76) **Contribution**  *Python*
 
-<small>Еще, если покопаться на [гитхабе](https://github.com/neronmoon) и в  [свалке](https://github.com/fridaylabs) &mdash; можно найти еще немного моих поделок</small>
+<small>Еще, если покопаться на [гитхабе](https://github.com/neronmoon) и [вот тут](https://github.com/fridaylabs) &mdash; можно найти еще немного моих поделок</small>
 
 ## Другое
 

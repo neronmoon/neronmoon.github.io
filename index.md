@@ -38,7 +38,7 @@ Teamcity CI server + Codeception better integration package <br> <br>
 - [Laravel-GraphQL](https://github.com/Folkloreatelier/laravel-graphql/pull/96) **Contribution** *PHP*
 - [Will](https://github.com/skoczen/will/pull/76) **Contribution**  *Python*
 
-<small>Also, you may dive into [github](https://github.com/neronmoon) and [trash](https://github.com/fridaylabs) to find more 💩 and 💎</small>
+<small>Also, you may dive into [github](https://github.com/neronmoon) and [FridayLabs](https://github.com/fridaylabs) to find more 💩 and 💎</small>
 
 ## Extra
 Can into GIT, Laravel, Codeception, AWS, Sphinx, Vagrant<br>

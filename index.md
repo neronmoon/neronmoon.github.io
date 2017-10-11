@@ -8,6 +8,8 @@ layout: default
 Born April 5, 1993 in Siberia, in 2014 moved to Kaliningrad. Write in PHP and Python. Love backend, dislike frontend. Use intellij idea, console and OSX.
 
 ## Experience
+- [Petrosoft](http://petrosoftinc.com/) ( 2017 - ... ) *PHP/Symfony, MySQL, Docker*<br>
+Support and refactor system for fuel destributors and gas stations<br><br>
 - [DealerSocket](http://dealersocket.com/) ( 2014 - 2017 ) *PHP/Symfony/Custom, Python, Sphinx, MySQL*<br>
 Support of the old and development of the new modular website platform for the US and Canadian auto dealers.<br><br>
 Our goal was is to build high-performance platform, that can respond in 300ms on any page. <br>

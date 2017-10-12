@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[GitHub](https://github.com/neronmoon) / [Email](mailto:alistar.neron@gmail.com)<br>
+[GitHub](https://github.com/neronmoon) / [Email](mailto:alistar.neron@gmail.com) / [Telegram](https://t.me/neronmoon)<br>
 
 ## Обо мне
 Родился 5 апреля 1993 года в Сибири, в 2014 году переехал в Калининград. Пишу на PHP и Python. Люблю бекенд, не люблю фронтенд. Использую intellij idea, консоль и OSX.

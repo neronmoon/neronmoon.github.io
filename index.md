@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[GitHub](https://github.com/neronmoon) / [Email](mailto:alistar.neron@gmail.com)<br>
+[GitHub](https://github.com/neronmoon) / [Email](mailto:alistar.neron@gmail.com) / [Telegram](https://t.me/neronmoon)<br>
 
 ## About me
 Born April 5, 1993 in Siberia, in 2014 moved to Kaliningrad. Write in PHP and Python. Love backend, dislike frontend. Use intellij idea, console and OSX.

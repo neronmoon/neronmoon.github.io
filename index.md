@@ -7,9 +7,14 @@ layout: default
 ## About me
 Born April 5, 1993 in Siberia, in 2014 moved to Kaliningrad. Write in PHP and Python. Love backend, dislike frontend. Use intellij idea, console and OSX.
 
+_I am also DevOps now! 😱_
+
 ## Experience
-- [Petrosoft](http://petrosoftinc.com/) ( 2017 - ... ) *PHP/Symfony, MySQL, Docker*<br>
-Support and refactor system for fuel destributors and gas stations<br><br>
+- [SkyEng](https://skyeng.ru) (2019 - ...) *Docker, Groovy, PostgreSQL, Ansible, Terraform*<br>
+Develop orchestration and CI/CD tools and support infrastructure solutions<br><br>
+- [Petrosoft](http://petrosoftinc.com/) ( 2017 - 2019 ) *PHP/Symfony, MySQL, Docker*<br>
+Support and refactor system for fuel destributors and gas stations<br>
+Tech-leading and developing integration between in-house CRM/Accounting system and SAP Business One<br><br>
 - [DealerSocket](http://dealersocket.com/) ( 2014 - 2017 ) *PHP/Symfony/Custom, Python, Sphinx, MySQL*<br>
 Support of the old and development of the new modular website platform for the US and Canadian auto dealers.<br><br>
 Our goal was is to build high-performance platform, that can respond in 300ms on any page. <br>
@@ -22,7 +27,7 @@ Writing modules for 1C-Bitrix, administration of simple hosting servers<br><br>
 Wrote some production-ready modules. Created small in-house hosting platform, based on KVM/ProxmoxVE for internal needs and for
 Likee's clients
 
-## OpenSource  & pet-projects
+## OpenSource & pet-projects
 - [Quottr](https://github.com/neronmoon/quottr) **Pet** *Golang/ClosureScript* <br>
 I'm learning here. Trying to build simple quotes database on technologies, that i don't know very well. [Demo](http://quottr.krasnoperov.tk/) time<br> <br>
 - [GoSimpleProxy](https://github.com/neoascetic/gosimpleproxy/pull/5) **Contribution** *Golang* <br>

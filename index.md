@@ -7,7 +7,7 @@ layout: default
 ## About me
 Born April 5, 1993 in Siberia, in 2014 moved to Kaliningrad. Write in PHP and Python. Love backend, dislike frontend. Use intellij idea, console and OSX.
 
-_I am also DevOps now! 😱_
+_I am also DevOps now!_ 😱
 
 ## Experience
 - [SkyEng](https://skyeng.ru) (2019 - ...) *Docker, Groovy, PostgreSQL, Ansible, Terraform*<br>

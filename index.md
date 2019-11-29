@@ -29,7 +29,7 @@ Likee's clients
 
 ## OpenSource & pet-projects
 - [Quottr](https://github.com/neronmoon/quottr) **Pet** *Golang/ClosureScript* <br>
-I'm learning here. Trying to build simple quotes database on technologies, that i don't know very well. [Demo](http://quottr.krasnoperov.tk/) time<br> <br>
+I'm learning here. Trying to build simple quotes database on technologies, that i don't know very well.
 - [GoSimpleProxy](https://github.com/neoascetic/gosimpleproxy/pull/5) **Contribution** *Golang* <br>
 Minified Docker image in 10x times <br> <br>
 - [Service](https://github.com/FridayLabs/service) **Pet** *PHP* <br>

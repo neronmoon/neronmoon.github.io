@@ -29,7 +29,7 @@ Tech-leading и разработка проекта по интеграции in
 
 ## Опенсорс & пет-проекты
 - [Quottr](https://github.com/neronmoon/quottr) **Проект** *Golang/ClosureScript* <br>
-Это мой учебный проект. Я стараюсь собрать его на технологиях, которые я знаю не очень хорошо. Есть [демка](http://quottr.krasnoperov.tk/)<br> <br>
+Это мой учебный проект. Я стараюсь собрать его на технологиях, которые я знаю не очень хорошо.
 - [GoSimpleProxy](https://github.com/neoascetic/gosimpleproxy/pull/5) **Contribution** *Golang* <br>
 Уменьшил размер Docker образа в 10 раз<br> <br>
 - [Service](https://github.com/FridayLabs/service) **Проект** *PHP* <br>

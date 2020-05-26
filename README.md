@@ -1,2 +1,2 @@
 # About me 
-[Link](https://krasnoperov.tk)
+[https://vkrasnoperov.tk](https://vkrasnoperov.tk)

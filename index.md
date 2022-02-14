@@ -8,7 +8,7 @@ I adore technologies and building new things out of them. My web background has 
 experience in designing systems from scratch and scale them, quickly adapting to the crazy worlds, 
 thinking a few steps ahead and do what is needed to get things done.
 
-I always try to keep up with the latest trends, but I prefer to build thinks as simple as possible, 
+I always try to keep up with the latest trends, but I prefer to build things as simple as possible, 
 because this is the only way they can evolve into something bigger.
 
 ## 💡 My main buzzwords

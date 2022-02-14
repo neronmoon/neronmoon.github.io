@@ -161,6 +161,7 @@ pre > code {
 .row {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   margin-bottom: 1rem;
 }
 

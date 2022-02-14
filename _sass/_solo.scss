@@ -21,6 +21,13 @@ body {
   }
 }
 
+@media print
+{
+  .no-print, .no-print *
+  {
+    display: none !important;
+  }
+}
 a {
   color: #0074d9; /* From http://clrs.cc */
   text-decoration: none;
@@ -149,4 +156,30 @@ pre > code {
   max-width: 39rem;
   margin: 0 auto;
   padding: 0 1rem;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1rem;
+}
+
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  > img {
+    margin: 2px;
+  }
+}
+
+.links {
+  > a {
+    margin-right: 10px;
+  }
+}
+
+.avatar {
+  height: 200px;
+  width: 200px;
 }

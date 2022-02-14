@@ -12,7 +12,17 @@
 </head>
 <body>
   <div class="container">
-    <h1><a href="./">{{ site.tag_text }}</a></h1>
+    <div class="row">
+      <h1><a href="./">{{ site.tag_text }}</a></h1>
+      <div>
+        <img class="avatar" src="/avatar.jpg" />
+      </div>
+    </div>
+    <div class="row links">
+      <a href="mailto:alistar.neron@gmail.com"><span class="no-print">📧 </span>alistar.neron@gmail.com</a>
+      <a href="https://github.com/neronmoon"><span class="no-print">🤖 </span>github.com/neronmoon</a>
+      <a href="https://t.me/neronmoon"><span class="no-print">💬 </span>t.me/neronmoon</a>
+    </div>
     {{ content }}
   </div>
 {% include scripts.html %}

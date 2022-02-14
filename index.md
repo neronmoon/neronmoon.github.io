@@ -76,8 +76,7 @@ Basically I wrote my own CI/CD server like [Travis CI](https://travis-ci.org/),
 but simpler and without web-ui.
 
 ## 🤘‍ Personal info
-Male, 28 years old, originally from Siberia. Moved to Kaliningrad for better climate and Polish sausages. Used to play 
-at rock band. Really love music, video games, tennis and coffee.
+Male, 28 years old, originally from Siberia. Moved to Kaliningrad for better climate and Polish sausages. Really love music, video games, tennis and coffee.
 
 **Hobbies:** Play tennis, make simple video games, read fiction books 
 

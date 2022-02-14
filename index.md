@@ -45,7 +45,7 @@ Well-known online English school
 - Migrated ~300 PHP/JS applications into Docker
 - Created tons of jenkins pipelines. Simple and complex ones.
 - Created base pipeline for GitLabCI
-- Automated nearly 90% of programmer's pipeline (moving jira tickets, checking MRs, run tests, etc)
+- Automated nearly 90% of developer's pipeline (moving jira tickets, checking MRs, run tests, etc)
 
 ### PHP backend developer @ [Petrosoft](https://petrosoftinc.com/) (2017 - 2019)
 Software/hardware company, that develops solutions for fuel-retailing and small-businesses
@@ -64,8 +64,7 @@ Full-stack development for food while studying in university
 - Build some websites/modules on PHP
 - Writing modules for 1C-Bitrix, administration of simple hosting servers
 - Support of e-commerce website, built on 1C-Bitrix.
-- Wrote some production-ready modules. Created small in-house hosting platform, based on KVM/ProxmoxVE for internal needs and for
-  Likee's clients
+- Wrote some production-ready modules. Created small in-house hosting platform, based on KVM/ProxmoxVE for internal needs and for clients
 
 ## 🧑‍🎓 Education
 
@@ -85,7 +84,6 @@ at rock band. Really love music, video games, tennis and coffee.
 **Languages:**
 - 🇬🇧 English - B1
 - 🇷🇺 Russian - Native
-
 
 ## 📢 Public speaking
 

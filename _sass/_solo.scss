@@ -158,10 +158,14 @@ pre > code {
   padding: 0 1rem;
 }
 
+.name {
+  max-width: 400px;
+}
 .row {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: space-between;
   margin-bottom: 1rem;
 }
 

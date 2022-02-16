@@ -69,8 +69,7 @@ Full-stack development for food while studying in university
 ## 🧑‍🎓 Education
 
 #### Tomsk State University of Control Systems and Radioelectronics
-Bachelor's degree<br />
-2015-2019<br />
+Bachelor's degree 2015-2019<br />
 Thesis: *Automated system of building and testing software*.<br /> 
 Basically I wrote my own CI/CD server like [Travis CI](https://travis-ci.org/), 
 but simpler and without web-ui.
@@ -88,6 +87,6 @@ Male, 28 years old, originally from Siberia. Moved to Kaliningrad for better cli
 
 #### 2021 Innopolis DevOps meetup @ Kazan, Russia
 I made a small presentation about my work at SkyEng and tool that I wrote to make our deployments and rollbacks finally stable
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FX8g_Wn9B2s?start=2209" title="YouTube video player"
+<iframe class="no-print" width="560" height="315" src="https://www.youtube.com/embed/FX8g_Wn9B2s?start=2209" title="YouTube video player"
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

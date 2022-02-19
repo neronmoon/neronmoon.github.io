@@ -5,7 +5,7 @@ layout: default
 I am DevOps and backend developer from Kaliningrad, Russia 🇷🇺
 
 I adore technologies and building new things out of them. My web background has given me a solid 
-experience in designing systems from scratch and scale them, quickly adapting to the crazy worlds, 
+experience in designing systems from scratch and scale them, quickly adapting to the crazy world, 
 thinking a few steps ahead and do what is needed to get things done.
 
 I always try to keep up with the latest trends, but I prefer to build things as simple as possible, 

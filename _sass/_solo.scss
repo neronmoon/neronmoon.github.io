@@ -21,13 +21,6 @@ body {
   }
 }
 
-@media print
-{
-  .no-print, .no-print *
-  {
-    display: none !important;
-  }
-}
 a {
   color: #0074d9; /* From http://clrs.cc */
   text-decoration: none;
@@ -39,14 +32,15 @@ a:hover, a:focus {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: Montserrat, sans-serif;
-  margin: 0 0 0.5rem -0.1rem /* align left edge */;
+  margin: 0 0 0.5rem -0.1rem /* align left edge */
+;
   line-height: 1;
   color: #111;
   text-rendering: optimizeLegibility;
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2rem;
   margin-bottom: 1rem;
 }
 
@@ -120,7 +114,6 @@ hr {
 }
 
 .container img {
-  margin: 0 auto;
   display: block;
 }
 
@@ -161,31 +154,71 @@ pre > code {
 
 .name {
   max-width: 400px;
+  margin-bottom: 1rem;
 }
+
 .row {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-between;
   margin-bottom: 1rem;
+}
+
+.columns {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.w-half {
+  width: 50%;
+}
+
+.justify {
+  justify-content: space-between;
 }
 
 .badges {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
+
   > img {
     margin: 2px;
+    width: auto;
+    height: 1.3rem;
   }
 }
 
 .links {
-  > a {
-    margin-right: 10px;
-  }
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
 }
 
 .avatar {
-  height: 200px;
-  width: 200px;
+  height: 11rem;
+  width: 11rem;
+}
+
+.print-only {
+  display: none !important;
+}
+
+
+@media print {
+  .pagebreak {
+    page-break-before: always;
+  }
+
+  .no-print, .no-print * {
+    display: none !important;
+  }
+  html {
+    font-size: 14px;
+    height: 99%;
+  }
+  .container {
+    max-width: 100rem;
+  }
 }

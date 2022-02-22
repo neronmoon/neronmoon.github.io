@@ -45,42 +45,45 @@ Well-known online English school
 - Migrated ~300 PHP/JS applications into Docker
 - Created tons of jenkins pipelines. Simple and complex ones.
 - Created base pipeline for GitLabCI
-- Automated nearly 90% of developer's pipeline (moving jira tickets, checking MRs, run tests, etc)
+- Automated nearly 90% of developer's pipeline (moving jira tickets, checking MRs, run tests, etc.)
 
 ### PHP backend developer @ [Petrosoft](https://petrosoftinc.com/) (2017 - 2019)
 Software/hardware company, that develops solutions for fuel-retailing and small-businesses
-- Support and refactor system for fuel distributors and gas stations
-- Tech-leading and developing integration between in-house CRM/Accounting system and SAP Business One 
+- Tech lead the integration project between in-house CRM/Accounting system and SAP Business One
+- Supported and refactored system for fuel distributors and gas stations
+<div class="pagebreak"></div>
 
 ### PHP backend developer @ [DealerSocket](https://dealersocket.com/) (2014 - 2017)
 Cool and fast websites for auto-dealers in the USA and Canada!
-- Writing modules for old in-house Zend-based framework. Like Inventory system, search module etc
-- Develop new high-performance framework ([Engine6](https://www.dealerfire.com/responsive-automotive-websites)) from scratch.
-Our goal was to build platform, that can respond in 300ms on any page. Every page can be customized via modern drag’n’drop builder, and built-in SEO-tools 
-- Build & support CI/CD using TeamCity for Engine6
+- Wrote tons of modules for old in-house Zend-based framework. Like Inventory system, search module etc
+- Participated in development of new high-performance framework ([Engine6](https://www.dealerfire.com/responsive-automotive-websites)) from scratch.
+Our goal was to build platform, that can respond in 300ms on any page. 
+Every page can be customized via modern drag’n’drop builder, and built-in SEO-tools 
+- Created and supported CI/CD pipelines using TeamCity for Engine6
 
 ### Freelance web developer (2012-2014)
 Full-stack development for food while studying in university
-- Build some websites/modules on PHP
-- Writing modules for 1C-Bitrix, administration of simple hosting servers
-- Support of e-commerce website, built on 1C-Bitrix.
-- Wrote some production-ready modules. Created small in-house hosting platform, based on KVM/ProxmoxVE for internal needs and for clients
+- Build some websites/modules using PHP
+- Developed modules for 1C-Bitrix
+- Administration of simple hosting servers
+- Support of e-commerce website that built on 1C-Bitrix.
+- Created small in-house hosting platform based on KVM/ProxmoxVE for internal needs and for external clients
 
 ## 🧑‍🎓 Education
 
 #### Tomsk State University of Control Systems and Radioelectronics
 Bachelor's degree 2015-2019<br />
 Thesis: *Automated system of building and testing software*.<br /> 
-Basically I wrote my own CI/CD server like [Travis CI](https://travis-ci.org/), 
-but simpler and without web-ui.
+Basically I wrote my own CI/CD server like [Travis CI](https://travis-ci.org/), but simpler and without web-ui.
 
 ## 🤘‍ Personal info
-Male, 28 years old, originally from Siberia. Moved to Kaliningrad for better climate and Polish sausages. Really love music, video games, tennis and coffee.
+Male, 28 years old, originally from Siberia. Moved to Kaliningrad for better climate and Polish sausages. 
+Really love music, video games, tennis and coffee.
 
 **Hobbies:** Play tennis, make simple video games, read fiction books 
 
 **Languages:**
-- 🇬🇧 English - B1
+- 🇬🇧 English - B2
 - 🇷🇺 Russian - Native
 
 ## 📢 Public speaking

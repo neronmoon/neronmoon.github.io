@@ -51,7 +51,6 @@ Well-known online English school
 Software/hardware company, that develops solutions for fuel-retailing and small-businesses
 - Tech lead the integration project between in-house CRM/Accounting system and SAP Business One
 - Supported and refactored system for fuel distributors and gas stations
-<div class="pagebreak"></div>
 
 ### PHP backend developer @ [DealerSocket](https://dealersocket.com/) (2014 - 2017)
 Cool and fast websites for auto-dealers in the USA and Canada!

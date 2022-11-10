@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am DevOps and backend developer from Kaliningrad, Russia 🇷🇺
+I am DevOps and backend developer from Gdańsk, Poland 🇵🇱
 
 I adore technologies and building new things out of them. My web background has given me a solid 
 experience in designing systems from scratch and scale them, quickly adapting to the crazy world, 
@@ -76,8 +76,8 @@ Thesis: *Automated system of building and testing software*.<br />
 Basically I wrote my own CI/CD server like [Travis CI](https://travis-ci.org/), but simpler and without web-ui.
 
 ## 🤘‍ Personal info
-Male, 28 years old, originally from Siberia. Moved to Kaliningrad for better climate and just because I could. 
-Really love music, video games, tennis and coffee.
+Male, 28 years old, originally from Siberia (Russia). Moved to Gdańsk for better climate and just because I could. 
+Really love music, video games, tennis and coffee. Praying for peace 🇺🇦
 
 **Hobbies:** Play tennis, make simple video games, read fiction books 
 
